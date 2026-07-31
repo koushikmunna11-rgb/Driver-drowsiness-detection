@@ -171,6 +171,9 @@ numpy==1.26.4
 **Koushik Kattoju**
 
 GitHub: https://github.com/koushikmunna11-rgb
+**Indrani Somireddi**
+
+GitHub: https://github.com/somireddiindrani
 
 ---
 
